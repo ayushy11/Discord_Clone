@@ -8,11 +8,11 @@ Hosting URL: https://discord-clone-2cd76.web.app/
 
 ### Login Page
 
-![alt text](https://github.com/ayushy11/Spotify-React-Clone/blob/master/login.png)
+![alt text](https://github.com/ayushy11/Discord_Clone/blob/master/login.png)
 
 ### Main Page
 
-![alt text](https://github.com/ayushy11/Spotify-React-Clone/blob/master/main.png)
+![alt text](https://github.com/ayushy11/Discord_Clone/blob/master/main.png)
 
 ## Installation and Setup Instructions
 
